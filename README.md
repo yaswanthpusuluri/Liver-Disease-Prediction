@@ -1,10 +1,13 @@
 # 🩺 Liver Disease Prediction using Machine Learning
 
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Random%20Forest-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.7.2-orange?logo=scikitlearn)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://liver-disease-prediction-ml.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/yaswanthpusuluri/Liver-Disease-Prediction)
 
 ---
 
@@ -246,6 +249,12 @@ pip install -r requirements.txt
 
 streamlit run main.py
 ```
+
+---
+
+## 🚀 Live Demo
+
+🌐 https://liver-disease-prediction-ml.streamlit.app/
 
 ---
 
