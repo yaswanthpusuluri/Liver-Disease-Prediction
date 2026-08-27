@@ -254,7 +254,6 @@ streamlit run main.py
 - Improve prediction accuracy using larger datasets.
 - Add Explainable AI (SHAP/LIME).
 - Enable batch prediction using CSV upload.
-- Deploy on cloud platforms.
 - Integrate with hospital management systems.
 
 ---
