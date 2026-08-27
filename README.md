@@ -1,10 +1,21 @@
 # 🩺 Liver Disease Prediction using Machine Learning
 
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Random%20Forest-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
 ## 📌 Project Overview
 
 This project predicts whether a patient is likely to have liver disease using Machine Learning techniques. The Indian Liver Patient Dataset (ILPD) was used for training and evaluation. Multiple classification algorithms were compared, and the best-performing model was selected for deployment using Streamlit.
 
+A user-friendly Streamlit web application is also developed for real-time predictions.
+
 ---
+
 
 # 🎯 Objective
 
@@ -47,15 +58,34 @@ This project predicts whether a patient is likely to have liver disease using Ma
 
 ---
 
-# ✨ Features
+## ✨ Features
 
-- User-friendly Streamlit Interface
-- Patient Health Data Input Form
-- Real-time Liver Disease Prediction
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Multiple Machine Learning Models
+- Hyperparameter Tuning using GridSearchCV
+- Model Evaluation & Comparison
+- Random Forest Final Model
+- Streamlit Web Application
+- Real-time Prediction
 - Prediction Confidence Score
-- Random Forest Classifier
-- Hyperparameter Tuned Model
-- Responsive and Clean UI
+- Healthy / Disease / Random Sample Input
+
+---
+
+## 🔄 Machine Learning Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Train-Test Split
+6. Model Training
+7. Hyperparameter Tuning
+8. Model Evaluation
+9. Final Model Selection
+10. Streamlit Deployment
 
 ---
 
@@ -229,6 +259,10 @@ streamlit run main.py
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Yaswanth Pusuluri**
+**Yaswanth**
+
+Final Year B.Tech Project
+
+Machine Learning | Python | Streamlit
